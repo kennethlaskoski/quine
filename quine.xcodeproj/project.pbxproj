@@ -182,7 +182,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
-				LastUpgradeCheck = 1330;
+				LastUpgradeCheck = 1340;
 				TargetAttributes = {
 					9F10223128288230000F8E46 = {
 						CreatedOnToolsVersion = 13.3.1;
@@ -359,6 +359,7 @@
 		9F10223A28288230000F8E46 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4HDBBU25PK;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -370,6 +371,7 @@
 		9F10223B28288230000F8E46 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4HDBBU25PK;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -381,6 +383,7 @@
 		9F10224528288C89000F8E46 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4HDBBU25PK;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -391,6 +394,7 @@
 		9F10224628288C89000F8E46 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4HDBBU25PK;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -401,6 +405,7 @@
 		9F10225028288CCD000F8E46 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4HDBBU25PK;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -411,6 +416,7 @@
 		9F10225128288CCD000F8E46 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4HDBBU25PK;
 				ENABLE_HARDENED_RUNTIME = YES;
