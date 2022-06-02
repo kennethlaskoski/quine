@@ -1,4 +1,7 @@
 # quine
+
+![GitHub language count](https://img.shields.io/github/languages/count/kennethlaskoski/quine)
+
 Quine implementations
 
 A [quine](https://en.wikipedia.org/wiki/Quine_(computing))
